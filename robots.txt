@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ishaiphi.setoid.org/sitemap.xml
